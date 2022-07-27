@@ -1,3 +1,5 @@
 Hello, 
 This is a test txt.
 New modification added.
+Modified in master brach only.
+Add modification before merging branches.
